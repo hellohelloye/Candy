@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DisplayCandyCVC.h
 //  Candy
 //
 //  Created by yye on 11/4/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface DisplayCandyCVC : UICollectionViewCell
 
 @end
-
